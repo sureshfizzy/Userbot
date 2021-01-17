@@ -31,7 +31,7 @@ Do fork and star the repo
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/xditya/TeleBot
+git clone https://github.com/sureshfizzy/Userbot
 cd TeleBot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
